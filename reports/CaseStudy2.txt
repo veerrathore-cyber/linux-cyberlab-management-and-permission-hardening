@@ -1,0 +1,16 @@
+Name of the Incident: Change Healthcare Ransomware Attack
+Year of Incident: 2024
+Target Organization: Change Healthcare (UnitedHealth Group)
+Type of Attack: Ransomware
+
+Why It Happened (Cause/Vulnerability):
+The attackers were able to get into the system using stolen login credentials. One major issue was that multi-factor authentication was not properly used on some important systems, which made it easier for attackers to gain access.
+
+What Happened After (Impact):
+This attack had a serious impact on healthcare services in the United States. Many pharmacies were unable to process prescriptions, and hospitals faced delays. It also raised concerns about patient data security. The company suffered financial losses and service interruptions.
+
+How the Organization Responded:
+The company shut down affected systems and worked with cybersecurity experts and law enforcement. They slowly restored their services and took steps to improve their security systems.
+
+Lessons Learned / Prevention Methods:
+This case shows the importance of strong login security. Organizations should always use multi-factor authentication, monitor systems regularly, and protect sensitive data carefully to avoid such attacks.

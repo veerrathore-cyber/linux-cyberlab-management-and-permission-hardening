@@ -1,0 +1,16 @@
+Name of the Incident: MGM Resorts Cyberattack
+Year of Incident: 2023
+Target Organization: MGM Resorts International
+Type of Attack: Ransomware and Social Engineering
+
+Why It Happened (Cause/Vulnerability):
+The attackers didn’t hack the system directly at first. Instead, they used social engineering. They called the company’s IT help desk and pretended to be an employee. Because of weak identity verification, they were able to get access to internal systems.
+
+What Happened After (Impact):
+The attack caused major disruption. Many of MGM’s systems stopped working, including hotel check-ins, slot machines, and digital room keys. Guests had a lot of problems during their stay. The company also lost millions of dollars, and some customer data may have been exposed.
+
+How the Organization Responded:
+MGM quickly shut down affected systems to stop the spread of the attack. They brought in cybersecurity experts to investigate and fix the issue. Over time, they restored their systems and informed customers about the situation.
+
+Lessons Learned / Prevention Methods:
+This incident shows how dangerous social engineering can be. Companies should train employees to verify identities properly. Using multi-factor authentication (MFA) and stricter security checks can help prevent similar attacks in the future.
