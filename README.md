@@ -37,6 +37,8 @@ This project demonstrates the practical application of Linux file system managem
 ## Skills Gained
 
 - Linux Administration
-- Permission Management
+- File System Management
+- Permission Hardening
 - Cybersecurity Documentation
-- Directory Organization
+- Incident Analysis
+- Security Best Practices
